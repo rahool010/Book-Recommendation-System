@@ -1,6 +1,8 @@
 
-# Book recommendation system
-AlmaBetter Verified Project - [AlmaBetter School](https://www.almabetter.com/)
+<h1 align="center">  Book Recommendation System
+ </h1>
+
+<h3 align="center"> AlmaBetter Verified Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -61,11 +63,11 @@ The programming language used in this project is Python. The following libraries
 ## Approaches Used
 The approaches used in this project are:
     
-    1. Popularity Based recommendation system
+1. Popularity Based recommendation system
 
 It is a type of recommendation system which works on the principle of popularity and or anything which is in trend. These systems check about the book which are in trend or are most popular among the users and directly recommend them.
 
-    2. Collaborative Filitering Based recommendation system
+2. Collaborative Filitering Based recommendation system
 
 The collaborative filtering approach is the most popular technique used in Recommendation Systems. This filtering method is usually based on collecting and analyzing information on user’s behaviors, their activities or preferences, and predicting what they will like based on the similarity with other users. This approach is based on the following hypothesis: people who agreed with a user in the past will also agree in the future.
 
